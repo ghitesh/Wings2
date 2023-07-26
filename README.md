@@ -1,1 +1,1 @@
-# Wings2
+# Wings2Edureka Course
